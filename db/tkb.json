@@ -1,0 +1,59 @@
+{
+  "tkb": [
+    {
+      "tiet": 1,
+      "dsmon": [
+        { "mon": "CC" },
+        { "mon": "Tin(P.Tin2)" },
+        { "mon": "TD" },
+        { "mon": "Văn" },
+        { "mon": "Lý" },
+        { "mon": "Hóa" }
+      ]
+    },
+    {
+      "tiet": 2,
+      "dsmon": [
+        { "mon": "CC" },
+        { "mon": "Tin(P.Tin2)" },
+        { "mon": "TD" },
+        { "mon": "Văn" },
+        { "mon": "Lý" },
+        { "mon": "Hóa" }
+      ]
+    },
+    {
+      "tiet": 3,
+      "dsmon": [
+        { "mon": "CC" },
+        { "mon": "Tin(P.Tin2)" },
+        { "mon": "TD" },
+        { "mon": "Văn" },
+        { "mon": "Lý" },
+        { "mon": "Hóa" }
+      ]
+    },
+    {
+      "tiet": 4,
+      "dsmon": [
+        { "mon": "CC" },
+        { "mon": "Tin(P.Tin2)" },
+        { "mon": "TD" },
+        { "mon": "Văn" },
+        { "mon": "Lý" },
+        { "mon": "Hóa" }
+      ]
+    },
+    {
+      "tiet": 5,
+      "dsmon": [
+        { "mon": "CC" },
+        { "mon": "Tin(P.Tin2)" },
+        { "mon": "TD" },
+        { "mon": "Văn" },
+        { "mon": "Lý" },
+        { "mon": "Hóa" }
+      ]
+    }
+  ]
+}
